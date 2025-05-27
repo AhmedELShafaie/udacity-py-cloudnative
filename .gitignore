@@ -1,0 +1,7 @@
+aws
+awscliv2.zip
+bin
+lib
+lib64
+pyvenv.cfg
+app.log
